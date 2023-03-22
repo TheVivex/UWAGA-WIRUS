@@ -1,2 +1,2 @@
 # UWAGA-WIRUS
-GEEK competition voivodeship winner game
+GEEK 2021 competition voivodeship winner game
