@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="demo" GeneratedClassName="dane">
+  <Profiles />
+  <Settings>
+    <Setting Name="ranga" Type="System.String" Scope="User">
+      <Value Profile="(Default)">moderator</Value>
+    </Setting>
+    <Setting Name="czas" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="domena" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tech.jdpoczta.pl</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
